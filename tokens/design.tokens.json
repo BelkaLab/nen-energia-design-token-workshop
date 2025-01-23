@@ -987,7 +987,7 @@
         },
         "radius": {
           "type": "dimension",
-          "value": "{semantic.radius.xs}",
+          "value": "{semantic.radius.md}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-01-22T09:10:33.178Z"
+      "createdAt": "2025-01-23T09:23:05.698Z"
     }
   }
 }
