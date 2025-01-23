@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 23 Jan 2025 15:34:59 GMT
+ * Generated on Thu, 23 Jan 2025 16:18:48 GMT
  */
 
 :root {
@@ -131,7 +131,7 @@
   --spacing-2-xs: 8px;
   --spacing-md: 24px;
   --spacing-xs: 12px;
-  --button-dimension-radius: var(--radius-md);
+  --button-dimension-radius: var(--radius-xs);
   --button-dimension-padding-h: var(--spacing-md);
   --button-dimension-padding-v: var(--spacing-2-xs);
   --button-tertiary-bg-active: var(--alpha);
@@ -145,15 +145,15 @@
   --color-text-secondary: var(--acid-90);
   --color-text-primary: var(--wall-60);
   --color-text-default: var(--white);
-  --color-background-tertiary-active: var(--breeze-90);
-  --color-background-tertiary-hover: var(--breeze-80);
-  --color-background-tertiary: var(--breeze-60);
-  --color-background-secondary-active: var(--breeze-90);
-  --color-background-secondary-hover: var(--breeze-70);
-  --color-background-secondary: var(--breeze-60);
-  --color-background-primary-active: var(--pink-90);
-  --color-background-primary-hover: var(--pink-70);
-  --color-background-primary: var(--pink-60);
+  --color-background-tertiary-active: var(--green-100);
+  --color-background-tertiary-hover: var(--green-90);
+  --color-background-tertiary: var(--green-80);
+  --color-background-secondary-active: var(--yellow-80);
+  --color-background-secondary-hover: var(--yellow-70);
+  --color-background-secondary: var(--yellow-60);
+  --color-background-primary-active: var(--brown-80);
+  --color-background-primary-hover: var(--brown-70);
+  --color-background-primary: var(--brown-60);
   --color-background-default: var(--white);
   --button-tertiary-fg-active: var(--color-background-tertiary-active);
   --button-tertiary-fg-hover: var(--color-background-tertiary-hover);
