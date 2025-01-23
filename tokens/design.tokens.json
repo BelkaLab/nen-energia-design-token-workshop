@@ -23,7 +23,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.pink.60}",
+          "value": "{global.brown.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -42,7 +42,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.pink.70}",
+          "value": "{global.brown.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -61,7 +61,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.pink.90}",
+          "value": "{global.brown.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -80,7 +80,7 @@
         },
         "secondary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.yellow.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -99,7 +99,7 @@
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.breeze.70}",
+          "value": "{global.yellow.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -118,7 +118,7 @@
         },
         "secondary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.yellow.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -137,7 +137,7 @@
         },
         "tertiary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.green.80}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -156,7 +156,7 @@
         },
         "tertiary-hover": {
           "type": "color",
-          "value": "{global.breeze.80}",
+          "value": "{global.green.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -175,7 +175,7 @@
         },
         "tertiary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.green.100}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -987,7 +987,7 @@
         },
         "radius": {
           "type": "dimension",
-          "value": "{semantic.radius.md}",
+          "value": "{semantic.radius.xs}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-01-23T15:34:28.200Z"
+      "createdAt": "2025-01-23T16:18:15.746Z"
     }
   }
 }
