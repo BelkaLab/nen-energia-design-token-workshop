@@ -23,7 +23,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.breeze.60}",
+          "value": "{global.pink.60}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -42,7 +42,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.breeze.70}",
+          "value": "{global.pink.70}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -61,7 +61,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.breeze.90}",
+          "value": "{global.pink.90}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -953,7 +953,7 @@
       "dimension": {
         "padding-v": {
           "type": "dimension",
-          "value": "{semantic.spacing.xs}",
+          "value": "{semantic.spacing.2xs}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -987,7 +987,7 @@
         },
         "radius": {
           "type": "dimension",
-          "value": "{semantic.radius.xs}",
+          "value": "{semantic.radius.md}",
           "description": "",
           "$extensions": {
             "mode": {},
@@ -2959,7 +2959,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-01-23T11:21:21.977Z"
+      "createdAt": "2025-01-23T15:34:28.200Z"
     }
   }
 }
